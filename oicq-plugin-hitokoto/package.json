@@ -1,0 +1,25 @@
+{
+  "name": "oicq-plugin-hitokoto",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qqbot",
+    "oicq",
+    "plugin",
+    "extension"
+  ],
+  "author": "dcyuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takayama-lily/oicq-plugins/issues"
+  },
+  "homepage": "https://github.com/takayama-lily/oicq-plugins#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "oicq": "^1.15.1"
+  }
+}
