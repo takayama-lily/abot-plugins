@@ -1,6 +1,6 @@
 {
   "name": "oicq-plugin-approve",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "auto-approve friend add request and group invitation",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/takayama-lily/oicq-plugins#readme",
   "dependencies": {
-    "oicq": "^1.15.1"
+    "oicq": "^1.15.2"
   }
 }
