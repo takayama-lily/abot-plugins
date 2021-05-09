@@ -1,3 +1,5 @@
+/** mongodb driver */
+"use strict"
 const mongo = require("mongodb")
 
 /**
