@@ -1,0 +1,24 @@
+{
+    "using": "1",
+
+    "1": {
+        "driver": "mongodb",
+        "host:": "localhost",
+        "port": 27017,
+        "database": "abot-db",
+        "collection": "abot-db",
+        "username": "",
+        "password": ""
+    },
+
+    "2": {
+        "remark": "暂未实现此driver",
+        "driver": "mysql",
+        "host:": "localhost",
+        "port": 3306,
+        "database": "abot-db",
+        "table": "abot-db",
+        "username": "root",
+        "password": ""
+    }
+}

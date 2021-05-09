@@ -1,0 +1,11 @@
+{
+  "name": "oicq-plugin-database",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "author": "takayama",
+  "devDependencies": {
+    "@types/mongodb": "^3.6.12",
+    "mongodb": "^3.6.6"
+  }
+}
